@@ -1,0 +1,44 @@
+.header{
+	height: 100px;
+	background-color: black;
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	height: 2000px;
+	background-color: green;
+	width: 55%;
+	float: right;
+}
+.contact{
+    height: 2000px;
+	background-color:red;
+	width:45% ;
+	float: left;
+}
+
+.box{
+	height: 100px;
+	width: 20%;
+	float: left;
+} 
+.pink{
+    background-color: pink;
+}
+.black{
+    background-color: black;
+}
+.lime{
+    background-color: lime;
+}
+.pink{
+    background-color: pink;
+}
+.lime{
+    background-color: lime;
+}
+.footer{
+	height: 100px;
+	background-color: yellow;
+}
